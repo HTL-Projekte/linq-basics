@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqBasics", "LinqBasics\LinqBasics.csproj", "{1F151675-9636-49DF-AD98-2F914A1925AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqBasics.Tests", "LinqBasics.Tests\LinqBasics.Tests.csproj", "{1EAEBB39-F8F5-4D05-94F9-7B2B1A0A0E88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F151675-9636-49DF-AD98-2F914A1925AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F151675-9636-49DF-AD98-2F914A1925AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F151675-9636-49DF-AD98-2F914A1925AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F151675-9636-49DF-AD98-2F914A1925AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EAEBB39-F8F5-4D05-94F9-7B2B1A0A0E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAEBB39-F8F5-4D05-94F9-7B2B1A0A0E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAEBB39-F8F5-4D05-94F9-7B2B1A0A0E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAEBB39-F8F5-4D05-94F9-7B2B1A0A0E88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
